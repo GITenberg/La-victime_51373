@@ -1,5 +1,8 @@
 _repo: La-victime_51373
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51373-h/images/cover.jpg
 creator:
   author:
     agent_name: Vandérem, Fernand
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '42659'
     url: http://www.gutenberg.org/2009/agents/42659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51373#La-victime
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouvelles
